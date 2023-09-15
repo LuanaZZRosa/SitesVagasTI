@@ -1,0 +1,290 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Shavian&family=Rubik:ital@1&display=swap');
+
+*{font-family: 'Noto Sans Shavian', sans-serif;
+}
+
+.menu_principal{
+  display: flex;  
+    justify-content: space-around;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+}
+
+
+ul, li{
+    display: inline-block;
+    margin-left: 24px;
+    cursor: pointer;
+}
+
+.botao{
+    background-color: #8E2424; 
+    color: white;
+    padding: 10px 20px;
+    border: none; 
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.geral_1{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-direction: column;
+}
+.escrita_1{ 
+    margin-top: 30px;
+    text-align: center;
+    color: #8E2424; 
+    font-size: 20px;
+}
+.escrita_2{ 
+    margin-top: 30px;
+    text-align: center;
+    color: #000000; 
+    font-size: 50px;
+}
+.escrita_3{ 
+    margin-top: -15px;
+    color: #92959c; 
+}
+
+.geral_2{
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.numeros{
+    font-size: 60px;
+    margin-top: 30px;
+    margin-right: 150px;
+    color:#8E2424
+
+}
+
+.numeros2{
+    font-size: 20px;
+}
+
+.numeros3{
+    margin-top: 5px;
+    font-size: 13px;
+    color: #92959c;
+}
+.segundo_botao{ 
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-direction: column;
+    
+}
+.botao_2{
+    text-align: center;
+    background-color: #f9f4f4; 
+    color: #020202;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: #FDF8F8;
+}
+.escrita_4{ 
+    margin-top: 30px;
+    text-align: center;
+    color: #000000; 
+    font-size: 35px;
+}
+.escrita_5{ 
+    margin-top: -10px;
+    color: #92959c; 
+    font-size: 20px;
+}
+.escrita_6{
+  
+  left: 350px;
+  font-size: 24px;
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+  
+}
+.Quadrado_1{
+    
+    left: 350px;
+    width: 700px;
+    height: 130px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin: auto;
+}
+.escrita_7{
+    
+    left: 0px;
+    margin-top: 10px;
+}
+.escrita_8{ 
+    
+    left: 0px;
+    margin-top: 50px;
+    color: #92959c; 
+    font-size: 15px;
+}
+.Quadrado_2{
+    margin-top: 30px;
+    
+    left: 350px;
+    width: 700px;
+    height: 130px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin: auto;
+}
+.escrita_9{
+    margin: 40px;
+    
+    left: 50px;
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+  }
+  .Quadrado_3{
+    margin-top: 30px;
+    
+    left: 350px;
+    width: 700px;
+    height: 130px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin: auto;
+}
+.Quadrado_4{
+    margin-top: 30px;
+   
+    left: 350px;
+    width: 700px;
+    height: 130px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin: auto;
+}
+.Quadrado_5{
+    margin-top: 30px;
+    
+    left: 350px;
+    width: 700px;
+    height: 130px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.Quadrado_6{
+    margin-top: 30px;
+    text-align: center;
+   color: #7c3333;
+   background-color: #FDF8F8;
+
+
+}
+.Quadrado_7{
+
+    margin-top: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FDF8F8;
+
+
+}
+.Quadrado_8{
+
+    width: 80px;
+    background-color: #FDF8F8;
+}
+
+.Quadrado_9{
+
+    color: #92959c;
+    text-align: center;
+    font-size: 12px;
+    background-color: #FDF8F8;
+}
+.Luana{
+
+    background-color:#FDF8F8; ;
+    border-radius: 20px;
+    width: 70%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.Quadrado_10{
+    margin-top: 55px;
+    text-align: center;
+
+
+}
+
+.Quadrado_11{
+
+    text-align: center;
+    color: #92959c;
+
+}
+
+.inserir-email{
+    display: flex;
+    justify-content: center; 
+   
+
+}
+
+.e-mail{
+    width: 300px;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    padding: 8px;
+    outline: none;
+    font-size: 16px;
+    margin-right: 10px;
+    
+    
+}
+
+
+.cadastro2{
+    background-color: #8E2424; 
+    border: 1px;
+    color:white;
+    border-radius: 10px;
+    padding: 12px;
+    width: 85px;
+    margin-left: 10px;
+    font-size: 16px;
+    justify-content: center;
+    cursor: pointer;
+    text-align: center;
+    
+}
+
+.patente{
+    margin-top: 12px;
+    color: #92959c;
+    text-align: center;
+    
+}
+
+
+body{
+     display: flex;
+     flex-direction: column;
+     justify-content:center ;
+     font-size: 12px;
+     margin-top: 20px;
+     
+
+
+
+}
